@@ -4,13 +4,14 @@ With 44 selected autoantibodies as markers, the model has achieved high accuracy
 Here, we provided the model and script for RA prediction.
 
 ## Dependencies
+- python3
 - numpy
 - sklearn
 - pickle
 - pandas
 
 ## Usage
-``git clone ``
+``git clone https://github.com/gao-lab/RA_prediction.git``
 
 ``python RA_prediction.py example.txt output.txt``
 
