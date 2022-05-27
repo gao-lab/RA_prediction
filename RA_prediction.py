@@ -5,7 +5,7 @@ Copyright (c) 2022 Yu-Jian Kang, Created on 2022-05-26 15:24:23.
 
 Purpose Description
 -----------------------
-    description what the function of this file.
+    Rheumatoid Arthritis prediction with autoantibodies
 
 Contact
 ---------------
